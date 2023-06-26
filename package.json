@@ -1,0 +1,13 @@
+{
+  "name": "se.nexa",
+  "version": "2.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "homey-rfdriver": "^3.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.0",
+    "eslint-config-athom": "^2.1.0",
+    "homey": "^2.3.3"
+  }
+}
